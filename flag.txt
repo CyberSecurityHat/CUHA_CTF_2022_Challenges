@@ -1,0 +1,15 @@
+dig_flag.jpg: CUHA{dig_dug_digging_mole!}
+easy_peasy_flag: CUHA{e_a_s_y_Pea_s_y}
+like_flag: CUHA{I_l_ike_sql_y_e_a_h}
+ZIGZAG: CUHA{VERRYGOODDOYOUKNOWREDEFENCEENCODER}
+Magic: CUHA{D0_y0u_kn0w_m4g1c14n?!!!?!?!:D}
+Simple substitution: CUHA{Easy_cypto_challenge_with_Caesar_cipher}
+RSA: CUHA{2397458484254696004708038691496600107008759624666260879602258120008414541658}
+3DES: CUHA{Function_is_3DES_and_Mode_is_CBC_and_Init._vector_ad_b6_be_87_eb_09_b7_6d}
+Warmup of Reversing: CUHA{34sy_P34sy_R3vers1ng_ch4ll3nge:D}
+Reversing1: CUHA{Basic_Reversing_Challenge_of_CUHA_CTF_2022!!!?!:D}
+OSINT with Reports: CUHA{Nc52C2VfdLLeO97h0AMHSg%3D%3D}
+Reversing2: CUHA{I_love_Linux._I_Love_Windows._And_I_Love_Reversing.}
+coffee: CUHA{I_love_coffe_:>}
+SHOW_ME_THE_GOLD: CUHA{FULL_ITEM_GOLD_33450}
+robots: CUHA{1_H4TE_R080T}
