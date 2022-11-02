@@ -13,3 +13,4 @@ Reversing2: CUHA{I_love_Linux._I_Love_Windows._And_I_Love_Reversing.}
 coffee: CUHA{I_love_coffe_:>}
 SHOW_ME_THE_GOLD: CUHA{FULL_ITEM_GOLD_33450}
 robots: CUHA{1_H4TE_R080T}
+QR: CUHA{Q2_C0D3_1S_600D}
