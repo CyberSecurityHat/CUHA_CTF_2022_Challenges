@@ -1,0 +1,28 @@
+MEB
+- SQL Injection : 100
+- XSS : 100
+- File Download : 100
+- robots : 100
+- like SQL Injection : 300
+
+NETWORK
+
+Reversing
+- WORMUP OF REVERSING : 100
+- REVERSING1 : 200
+- REVERSING2 : 300 
+
+Crypto
+- Simple substitution : 100
+- Magic : 200
+- 3DES : 200
+- ZigZag : 300
+- RSA : 500
+
+Misc
+- Congratulation : 50
+- coffee : 100
+- QR : 100
+- dig_flag : 200
+- SHOW_ME_THE_MONEY : 200
+- OSINT with Reports : 300
