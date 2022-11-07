@@ -8,9 +8,9 @@ MEB
 NETWORK
 
 Reversing
-- WORMUP OF REVERSING : 100
-- REVERSING1 : 200
-- REVERSING2 : 300 
+- Wormup of Reversing : 100
+- Reversing1 : 200
+- Reversing2 : 300 
 
 Crypto
 - Simple substitution : 100
