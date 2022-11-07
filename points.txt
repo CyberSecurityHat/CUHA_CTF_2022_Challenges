@@ -6,6 +6,7 @@ MEB
 - like SQL Injection : 300
 
 NETWORK
+- Telnet : 100
 
 Reversing
 - Wormup of Reversing : 100
