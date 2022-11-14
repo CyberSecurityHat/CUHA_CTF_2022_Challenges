@@ -1,29 +1,39 @@
-MEB
-- SQL Injection : 100
-- XSS : 100
-- File Download : 100
+WEB
+- SQL Injection : 300
+- File Download : 300
 - robots : 100
-- like SQL Injection : 300
+- like SQL Injection : 500
+
+4문제, 1200점(평균 300점)
 
 NETWORK
 - Telnet : 100
+- DOS : 300
+
+2문제, 400점(평균 200점)
 
 Reversing
 - Wormup of Reversing : 100
-- Reversing1 : 200
-- Reversing2 : 300 
+- Reversing1 : 300
+- Reversing2 : 500
+
+3문제, 900점(평균 300점)
 
 Crypto
 - Simple substitution : 100
-- Magic : 200
-- 3DES : 200
-- ZigZag : 300
+- Magic : 300
+- 3DES : 300
+- ZigZag : 500
 - RSA : 500
 
+5문제, 1700점(평균 340점)
+
 Misc
-- Congratulation : 50
+- Welcome : 100
 - coffee : 100
 - QR : 100
-- dig_flag : 200
-- SHOW_ME_THE_MONEY : 200
-- OSINT with Reports : 300
+- dig_flag : 100
+- SHOW_ME_THE_MONEY : 300
+- OSINT with Reports : 500
+
+6문제, 1200점(평균 200점)
