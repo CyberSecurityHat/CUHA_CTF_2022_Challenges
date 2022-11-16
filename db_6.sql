@@ -1,5 +1,5 @@
 insert into Flag(Flag,challenge_title,point) values('CUHA{1_H4TE_R080T}','web1',100);
-insert into Flag(Flag,challenge_title,point) values('CUHA{yo__hello_im_Flag__}','web2',300);
+insert into Flag(Flag,challenge_title,point) values('CUHA{yo__hello_im_flag__}','web2',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{e_a_s_y_Pea_s_y}','web3',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{I_l_ike_sql_y_e_a_h}','web4',500);
 insert into Flag(Flag,challenge_title,point) values('CUHA{34sy_P34sy_R3vers1ng_ch4ll3nge:D}','reversing1',100);
@@ -19,5 +19,5 @@ insert into Flag(Flag,challenge_title,point) values('CUHA{FULL_ITEM_GOLD_33450}'
 insert into Flag(Flag,challenge_title,point) values('CUHA{Nc52C2VfdLLeO97h0AMHSg%3D%3D}','misc7',500);
 insert into Flag(Flag,challenge_title,point) values('CUHA{T3ln3t_is_cl34rt3xt!!!???!?!}','network1',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{2137_345}','network2',300);
-insert into Web1(id) values('CUHA{e_a_s_y_Pea_s_y}');
-insert into Web2(id, pw) values('admin', 'CUHA{I_l_ike_sql_y_e_a_h}');
+insert into Web3(id) values('CUHA{e_a_s_y_Pea_s_y}');
+insert into Web4(id, pw) values('admin', 'CUHA{I_l_ike_sql_y_e_a_h}');
